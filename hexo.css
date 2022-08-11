@@ -1,6 +1,6 @@
 /*所有页面实现毛玻璃特效*/
 
-#aside-content{
+#aside-content,div.card-content{
 
     background: rgba(255,255,255,0);
 
