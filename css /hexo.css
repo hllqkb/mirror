@@ -1,4 +1,8 @@
 /*所有页面实现毛玻璃特效 hllqk 改*/
+/*图片溢出问题解决*/
+#body-wrap{
+    overflow: hidden;
+}
 .atk-sidebar-layer{
 
     background: #fff0;
